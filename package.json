@@ -1,0 +1,22 @@
+{
+  "name": "botapp-demo",
+  "version": "1.0.0",
+  "description": "botapp-external 是一个支持 convoUI 的机器人（bot）开发框架",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finochat/botapp-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/finochat/botapp-demo/issues"
+  },
+  "homepage": "https://github.com/finochat/botapp-demo#readme",
+  "dependencies": {
+    "botapp-external": "^0.1.11"
+  }
+}
